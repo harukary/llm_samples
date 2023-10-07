@@ -1,0 +1,655 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": -33.8148186,
+        "lng": 151.208821
+      },
+      "southwest": {
+        "lat": -33.8977872,
+        "lng": 151.0017629
+      }
+    },
+    "copyrights": "Map data \u00a92023 Google",
+    "legs": [
+      {
+        "arrival_time": {
+          "text": "12:54\u202fAM",
+          "time_zone": "Australia/Sydney",
+          "value": 1693148065
+        },
+        "departure_time": {
+          "text": "12:11\u202fAM",
+          "time_zone": "Australia/Sydney",
+          "value": 1693145481
+        },
+        "distance": {
+          "text": "25.2 km",
+          "value": 25177
+        },
+        "duration": {
+          "text": "43 mins",
+          "value": 2584
+        },
+        "end_address": "Parramatta NSW 2150, Australia",
+        "end_location": {
+          "lat": -33.8148186,
+          "lng": 151.0017629
+        },
+        "start_address": "483 George St, Sydney NSW 2000, Australia",
+        "start_location": {
+          "lat": -33.8731812,
+          "lng": 151.2070056
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "94 m",
+              "value": 94
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 85
+            },
+            "end_location": {
+              "lat": -33.8736583,
+              "lng": 151.2069544
+            },
+            "html_instructions": "Walk to Town Hall",
+            "polyline": {
+              "points": "jzvmEyr{y[@@nADCr@@?No@"
+            },
+            "start_location": {
+              "lat": -33.8731812,
+              "lng": 151.2070056
+            },
+            "steps": [
+              {
+                "distance": {
+                  "text": "46 m",
+                  "value": 46
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 33
+                },
+                "end_location": {
+                  "lat": -33.8735922,
+                  "lng": 151.2069691
+                },
+                "html_instructions": "Head <b>south</b> on <b>George St</b>",
+                "polyline": {
+                  "points": "jzvmEyr{y[@@nAD"
+                },
+                "start_location": {
+                  "lat": -33.8731812,
+                  "lng": 151.2070056
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "24 m",
+                  "value": 24
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 16
+                },
+                "end_location": {
+                  "lat": -33.8735685,
+                  "lng": 151.2067097
+                },
+                "html_instructions": "Turn <b>right</b>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "||vmEqr{y[Cr@"
+                },
+                "start_location": {
+                  "lat": -33.8735922,
+                  "lng": 151.2069691
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 3
+                },
+                "end_location": {
+                  "lat": -33.8735826,
+                  "lng": 151.2067078
+                },
+                "html_instructions": "Take entrance <span class=\"location\">George St</span>",
+                "polyline": {
+                  "points": "z|vmE}p{y["
+                },
+                "start_location": {
+                  "lat": -33.8735826,
+                  "lng": 151.2067078
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 3
+                },
+                "end_location": {
+                  "lat": -33.8735826,
+                  "lng": 151.2067078
+                },
+                "polyline": {
+                  "points": "z|vmE}p{y["
+                },
+                "start_location": {
+                  "lat": -33.8735826,
+                  "lng": 151.2067078
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 2
+                },
+                "end_location": {
+                  "lat": -33.8735826,
+                  "lng": 151.2067078
+                },
+                "polyline": {
+                  "points": "z|vmE}p{y["
+                },
+                "start_location": {
+                  "lat": -33.8735826,
+                  "lng": 151.2067078
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "24 m",
+                  "value": 24
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 28
+                },
+                "end_location": {
+                  "lat": -33.8736583,
+                  "lng": 151.2069544
+                },
+                "polyline": {
+                  "points": "z|vmE}p{y[No@"
+                },
+                "start_location": {
+                  "lat": -33.8735826,
+                  "lng": 151.2067078
+                },
+                "travel_mode": "WALKING"
+              }
+            ],
+            "travel_mode": "WALKING"
+          },
+          {
+            "distance": {
+              "text": "1.3 km",
+              "value": 1293
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 180
+            },
+            "end_location": {
+              "lat": -33.8842769,
+              "lng": 151.2069088
+            },
+            "html_instructions": "Train towards Liverpool Via Regents Park",
+            "polyline": {
+              "points": "j}vmEmr{y[?@X?fCRpCt@\\DN?TCRCZIRGTIf@]b@_@b@e@LQLWLWLULUl@m@t@i@x@c@z@]d@MVI\\I~AQn@CF@hAN@?L@H?H?^Dt@LZDHBB?H@LBZF~BZl@JH@@@TDhARd@JZH`@JB@LBd@NdA^PFPHb@TTLhAp@t@j@EJ"
+            },
+            "start_location": {
+              "lat": -33.8736583,
+              "lng": 151.2069544
+            },
+            "transit_details": {
+              "arrival_stop": {
+                "location": {
+                  "lat": -33.8842769,
+                  "lng": 151.2069088
+                },
+                "name": "Central"
+              },
+              "arrival_time": {
+                "text": "12:16\u202fAM",
+                "time_zone": "Australia/Sydney",
+                "value": 1693145760
+              },
+              "departure_stop": {
+                "location": {
+                  "lat": -33.8736583,
+                  "lng": 151.2069544
+                },
+                "name": "Town Hall"
+              },
+              "departure_time": {
+                "text": "12:13\u202fAM",
+                "time_zone": "Australia/Sydney",
+                "value": 1693145580
+              },
+              "headsign": "Liverpool Via Regents Park",
+              "line": {
+                "agencies": [
+                  {
+                    "name": "Sydney Trains",
+                    "url": "https://transportnsw.info/"
+                  }
+                ],
+                "color": "#f26421",
+                "name": "Bankstown Line",
+                "short_name": "T3",
+                "text_color": "#ffffff",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                  "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/au-sydney-train.png",
+                  "name": "Train",
+                  "type": "HEAVY_RAIL"
+                }
+              },
+              "num_stops": 1
+            },
+            "travel_mode": "TRANSIT"
+          },
+          {
+            "distance": {
+              "text": "0.1 km",
+              "value": 120
+            },
+            "duration": {
+              "text": "4 mins",
+              "value": 230
+            },
+            "end_location": {
+              "lat": -33.8835825,
+              "lng": 151.2059071
+            },
+            "html_instructions": "Walk to Central",
+            "polyline": {
+              "points": "v_ymEer{y[kCfE"
+            },
+            "start_location": {
+              "lat": -33.8842769,
+              "lng": 151.2069088
+            },
+            "steps": [
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 77
+                },
+                "end_location": {
+                  "lat": -33.8842769,
+                  "lng": 151.2069088
+                },
+                "polyline": {
+                  "points": "v_ymEer{y["
+                },
+                "start_location": {
+                  "lat": -33.8842769,
+                  "lng": 151.2069088
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 102
+                },
+                "end_location": {
+                  "lat": -33.8842769,
+                  "lng": 151.2069088
+                },
+                "polyline": {
+                  "points": "v_ymEer{y["
+                },
+                "start_location": {
+                  "lat": -33.8842769,
+                  "lng": 151.2069088
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 120
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 51
+                },
+                "end_location": {
+                  "lat": -33.8835825,
+                  "lng": 151.2059071
+                },
+                "polyline": {
+                  "points": "v_ymEer{y[kCfE"
+                },
+                "start_location": {
+                  "lat": -33.8842769,
+                  "lng": 151.2069088
+                },
+                "travel_mode": "WALKING"
+              }
+            ],
+            "travel_mode": "WALKING"
+          },
+          {
+            "distance": {
+              "text": "23.2 km",
+              "value": 23153
+            },
+            "duration": {
+              "text": "24 mins",
+              "value": 1439
+            },
+            "end_location": {
+              "lat": -33.8175443,
+              "lng": 151.0054982
+            },
+            "html_instructions": "Train towards Mount Victoria Via Parramatta",
+            "polyline": {
+              "points": "j{xmE}k{y[EL|B`BjAz@dAx@f@b@~@x@`@^`@b@b@`@LJp@n@Vb@LR~AhAfAv@TPHFf@Rp@n@PPDFLL~@r@lClBB@LH^RDBNFd@VJHJHt@p@p@j@t@n@r@n@^^PNJL\\`@X\\JNVZf@l@^l@Zd@BF`@r@p@nAf@bAP`@Zr@b@hAXr@`@fAXv@Z~@Rp@Pp@Lb@FZJd@RbAFf@Jl@Jn@Ff@Jh@Hj@FZLj@Ld@Pr@Pt@FZ^bBTbAJ`@Lh@Lj@FXNl@BJH\\XlANr@FVPl@Rr@h@pB\\zAV`ALl@Lf@HZLl@R~@FR?BDNBL^|APr@@FZvAJl@NbA\\~C@DFl@F`A@J@VBnA?Z@l@?j@BnA?xA?P?~A?^Av@Cx@G~ACz@Al@?xA?JAXAr@CVCXCTEZKt@Qt@Q|@GRGTK^[`AQf@Sd@IRWh@KTc@x@k@`AYj@OXQ^Sd@KTITKZCFCJ[jAI^ERAFCHENg@pBCHEROd@]nAELa@tAYhAQx@ABCPQdAIh@Ip@CJAJCj@ANAJ?RCf@?JAxA?N@z@?d@B`@?JD~@FrABV@`@NtB@D?DXxC@NNvADf@Db@D|@Bh@A|@AdAGdAKtAMbAc@bCUfAk@bCWvAEXGr@Gp@ALIbAGjA?jABzA@PNbBd@dELrANlBH`B?D?pACjBKjBIfAWdCGt@KdASnBQdAMp@S~@_@vAEPOn@Qt@YpAIb@WrAGVGTc@jBCJc@hBGTI^A@Sx@ABOl@g@rBCLKj@q@|CW`AELa@bB_@rAg@xAOd@ITSl@St@Mf@K`@Ox@QbAMt@QlAKr@K`AGv@Ez@EdBA`AC|@?LA|@Ct@Ap@ATAnAA\\CnACdAAd@Ad@C\\?@Cf@?BEh@Gz@K~@Il@Gd@It@G\\CRId@I^I`@U|@Qx@EPUt@?@Mt@IZGTOn@ABSt@]nA_@rAMh@Oj@Ql@Sj@Mb@Oj@Oj@Ol@Sv@On@K`@On@Ov@Ib@ERADAHCHId@Mn@Kh@On@Mn@Qx@Ov@St@S|@St@YhAQr@Kb@CJIZA?GVGRWx@Sn@M`@KXITABCFKXSf@MXMX_@z@Sd@S`@cAxBc@`AOZEJ{@lBSb@m@tA]p@s@hAa@n@S\\MTOTEJaAbBA@MRGLYh@Ub@S\\k@bAi@v@m@z@eAvAKLcBzBkBdCa@j@u@nAOVCDQVWf@_@v@g@pAWt@Of@W~@Sv@Ml@I`@WnAc@|BWpAQdAWdBWrBGb@OxACXCVCRYnC?B_@rDObBMz@AJOt@Mj@IZUt@AFKXYt@_@z@m@nAEJGJWb@S\\SXUXa@d@]^GF_@`@STUVk@h@w@r@_Ax@q@j@a@^ILQNi@l@c@n@W^GJm@dAs@pAc@r@OVk@z@WZ[\\CD[\\[\\_@`@STIJYZKNKLi@n@e@n@UZ_@h@[d@Ub@OXUd@Yn@Sj@Yx@Ut@Wv@]~@Wn@e@|@k@fA[l@A@OZOVO^EL]v@_@dAUn@EL[x@i@zA[~@?@Sp@IZMh@Ol@Id@S~@ETG\\CJKf@CJEPGPCNOt@EPKf@Ov@Or@S`AI\\?BWjAS`AUjASbAQv@In@CNG\\Gl@Gl@Gp@Cf@Ep@Ab@AZAn@A|@?l@@d@@d@@j@B`@?FBf@?@Dj@JdAJfALlAJxABp@Fz@B|@Dt@@R@R@TBt@B|@?r@?~@At@C|@Ad@Er@Ej@Eh@Gv@Gl@y@lHUfB[|AGb@EXEf@Gd@Gp@g@rESdDGtAGfCE|A?b@CnB?hB@jC@rABdCBlAHxAHhANxALfARtAHXHf@Jr@L~@JnA@T@TBt@@z@Av@CbBEx@EnACfAA~BB|CAfDAtA?~AGrG?DAlADnAAdBAhAKxBC\\Kz@It@Kx@GZGd@Qt@Ol@Op@Sl@Up@K\\A@Sl@Wn@O^Wf@OVOVU^QTOTW^W^UX]`@YZUT[XOPWRQNWPMJSLMJMHUNkEnC_Aj@yBrAyH|EiAp@eEhCIFsD~BaHhE[ROJu@d@A?[R}@h@_BbAeAp@SLiAt@g@\\EBqBvAIFgAv@{@t@[X[X[XONCB]\\[ZeBhBIJs@r@EFq@p@uAxAEB_A`AYXMHWPGFq@t@e@f@UVUNSPEDQLIHa@ZWRIHEFe@f@ST]\\WXa@`@MLILEFk@h@i@n@u@v@cAfAq@t@w@v@i@f@c@d@_@\\OHIF]\\cAdAyD|DaCjCyAbBe@l@o@~@y@lAoB`DoAhCkAxCiAvB]p@ELYh@ABc@n@KPEVaDbGg@`AOTwB~DaCpEMVMR?@qArB_CpE}@dBy@~AABEFiAtB_@n@cBdDq@|@EHCDY`@ML_@b@ABc@b@e@b@o@d@q@b@SJ_@PIBMDgCfAq@Tq@RmA^aDz@[FUDSDK@O?m@FgBHyBDiDMeDYcE{@mCUsBCS@aABaBFkB`@oAd@a@V]RQLgAr@oA`Aa@\\OLMJa@\\{@`A]d@KRMK"
+            },
+            "start_location": {
+              "lat": -33.8835825,
+              "lng": 151.2059071
+            },
+            "transit_details": {
+              "arrival_stop": {
+                "location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "name": "Parramatta"
+              },
+              "arrival_time": {
+                "text": "12:48\u202fAM",
+                "time_zone": "Australia/Sydney",
+                "value": 1693147680
+              },
+              "departure_stop": {
+                "location": {
+                  "lat": -33.8835825,
+                  "lng": 151.2059071
+                },
+                "name": "Central"
+              },
+              "departure_time": {
+                "text": "12:24\u202fAM",
+                "time_zone": "Australia/Sydney",
+                "value": 1693146241
+              },
+              "headsign": "Mount Victoria Via Parramatta",
+              "line": {
+                "agencies": [
+                  {
+                    "name": "NSW Trains",
+                    "url": "https://transportnsw.info/"
+                  }
+                ],
+                "color": "#f2981b",
+                "name": "Blue Mountains Line",
+                "text_color": "#ffffff",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                  "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/au-sydney-train.png",
+                  "name": "Train",
+                  "type": "HEAVY_RAIL"
+                }
+              },
+              "num_stops": 2
+            },
+            "travel_mode": "TRANSIT"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 517
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 385
+            },
+            "end_location": {
+              "lat": -33.8148186,
+              "lng": 151.0017629
+            },
+            "html_instructions": "Walk to Parramatta NSW 2150, Australia",
+            "polyline": {
+              "points": "r~kmEkgtx[gBxBECOj@ETCNAHGXGZCLAD?@CLG^CRERALAFAJKFMFSHGBEBGBMDq@JmAPE@EBKHMFIFOBG@E?E?IACNAHIh@Ip@YpB"
+            },
+            "start_location": {
+              "lat": -33.8175443,
+              "lng": 151.0054982
+            },
+            "steps": [
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 58
+                },
+                "end_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "polyline": {
+                  "points": "r~kmEkgtx["
+                },
+                "start_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 12
+                },
+                "end_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "polyline": {
+                  "points": "r~kmEkgtx["
+                },
+                "start_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 6
+                },
+                "end_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "polyline": {
+                  "points": "r~kmEkgtx["
+                },
+                "start_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "1 m",
+                  "value": 0
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 8
+                },
+                "end_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "polyline": {
+                  "points": "r~kmEkgtx["
+                },
+                "start_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "80 m",
+                  "value": 80
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 2
+                },
+                "end_location": {
+                  "lat": -33.8170243,
+                  "lng": 151.0048913
+                },
+                "html_instructions": "Take exit <span class=\"location\">Darcy St</span>",
+                "polyline": {
+                  "points": "r~kmEkgtx[gBxB"
+                },
+                "start_location": {
+                  "lat": -33.8175443,
+                  "lng": 151.0054982
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 143
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 94
+                },
+                "end_location": {
+                  "lat": -33.8166036,
+                  "lng": 151.0034729
+                },
+                "html_instructions": "Head <b>northwest</b> on <b>Darcy St</b>/<wbr/><b>Parramatta Sq</b> toward <b>Church St</b>",
+                "polyline": {
+                  "points": "d{kmEuctx[Oj@ETCNAHGXGZCLAD?@CLG^CRERALAFAJ"
+                },
+                "start_location": {
+                  "lat": -33.8169924,
+                  "lng": 151.0049083
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 180
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 128
+                },
+                "end_location": {
+                  "lat": -33.815075,
+                  "lng": 151.0029162
+                },
+                "html_instructions": "Turn <b>right</b> onto <b>Church St</b>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "vxkmEuzsx[KFMFSHGBEBGBMDq@JmAPE@EBKHMFIFOBG@E?E?IA"
+                },
+                "start_location": {
+                  "lat": -33.8166036,
+                  "lng": 151.0034729
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 114
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 77
+                },
+                "end_location": {
+                  "lat": -33.8148186,
+                  "lng": 151.0017629
+                },
+                "html_instructions": "Turn <b>left</b> onto <b>Macquarie St</b>",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "fokmEgwsx[CNAHIh@Ip@YpB"
+                },
+                "start_location": {
+                  "lat": -33.815075,
+                  "lng": 151.0029162
+                },
+                "travel_mode": "WALKING"
+              }
+            ],
+            "travel_mode": "WALKING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "jzvmEyr{y[pAFAr@Nm@`DRpCt@\\Dd@Cn@Mh@QjA}@p@w@v@{Al@m@t@i@x@c@z@]|@W\\I~AQn@CF@jAN`AFrG`AnATnB^|@T|Bt@b@Px@b@hAp@t@j@qCrEEL|B`BpCtBfB|AbAbAp@l@p@n@Vb@LR~AhA|AhAp@ZbA`ARTlE`Dv@b@t@^VRpE|DzA~AdBvB`BnCxArCl@tAxB|FnAfEn@lDj@nDl@xCjAhFbBlHbAfErBbItAfGv@fDf@dCl@bFR`CFpDBfF?~BEpBKzCAfCGpBY`Cs@|Cg@`Be@lAqAlCgBfDu@lB_AtDaAtD_B|Fi@tCYrBGzAE|CDnCRlEj@zG\\rDHfBCbCSzCq@fEaAjE]pB[vDGvCDlBNbBd@dELrAXnE?vACjBKjBa@lESzBSnBQdAa@pBe@hBeAzEkAlFaBxGk@`C}@hE_BfGuAbEa@|A[zA_@xB]`CSxBK`DGjEIlEKxEIlBYhDc@fDa@zBcA~D_@hBcAxDqC~J_AvDo@~CiAxFiAdFkAvEyA~EwApDaGtMaAxBqAzBsAxBcD~FuAzBsBrC}FzH{AdCw@~A_AfCg@fBa@dB}A`Ii@jD_@vC[~CiAjLOfA]`Bm@rBy@pBs@zAgAfB}AfBuBxBkExD[\\mA|A_@j@aBvC_BfCsA|AyA`B{AhBwBzCe@|@o@tA{ArEu@nBqAdC}@bBsAjDaBrEy@nCyAdHkE|Sg@tCOzAKxAK`D@vDH|B\\zDXfDJlBLzCDjABpBAtBEbBY`EaAzIUfB[|AM|@MlAo@dG[zFMdFCrCFnMLfDXbDLfARtAHXTzAXnCH|CEzCKhCEfE@dIInMAlADnACnDOvCUpBStAYzA_@~Ai@~Ay@|Bg@fA_@n@oAjBm@x@w@|@yAtAkAz@}FtDcf@jZcJxFkCdB{B~AcClBcB|AcDfDkHrHe@Zy@|@{@~@i@`@cAx@mAlAuD|DuEdFeDbDYPaBbByD|DaCjCyAbBe@l@iBlCoB`DoAhCkAxCiAvBc@~@[l@o@`AEVaDbGw@vAuG|LqAtB}DvHkC`FcCtEw@fAkAxAe@f@uAhAeAn@i@TuClAcBh@oFzAq@L_@FO?m@FaFNiDMeDYcE{@mCUgCAcDJkB`@oAd@_Aj@yA`AoCxBa@\\{@`Ai@x@MKgBxBECOj@Id@Ib@Mp@UtACTAJKFa@PMFUH_C\\KDYPYJM@OAEXm@lE"
+    },
+    "summary": "",
+    "warnings": [
+      "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "waypoint_order": []
+  }
+]

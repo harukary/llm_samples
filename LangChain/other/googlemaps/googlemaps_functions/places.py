@@ -1,0 +1,6 @@
+
+class FindPlace:
+
+    function = {
+        
+    }
