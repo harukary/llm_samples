@@ -1,0 +1,9 @@
+FROM opensearchproject/opensearch:latest
+ENV http_proxy=http://proxy.mei.co.jp:8080
+ENV HTTP_PROXY=http://proxy.mei.co.jp:8080
+ENV https_proxy=http://proxy.mei.co.jp:8080
+ENV HTTPS_PROXY=http://proxy.mei.co.jp:8080
+RUN /usr/share/opensearch/bin/opensearch-plugin install analysis-kuromoji
+RUN /usr/share/opensearch/bin/opensearch-plugin install analysis-icu
+# RUN OPENSEARCH_JAVA_OPTS="-Dhttp.proxyHost=proxy.mei.co.jp -Dhttp.proxyPort=8080 -Dhttps.proxyHost=proxy.mei.co.jp -Dhttps.proxyPort=8080" opensearch-plugin install analysis-kuromoji
+# RUN OPENSEARCH_JAVA_OPTS="-Dhttp.proxyHost=proxy.mei.co.jp -Dhttp.proxyPort=8080 -Dhttps.proxyHost=proxy.mei.co.jp -Dhttps.proxyPort=8080" opensearch-plugin install analysis-icu

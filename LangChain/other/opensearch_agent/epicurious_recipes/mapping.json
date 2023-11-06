@@ -1,0 +1,65 @@
+{
+  "calories": {
+    "type": "float"
+  },
+  "categories": {
+    "type": "text",
+    "fields": {
+      "keyword": {
+        "type": "keyword",
+        "ignore_above": 256
+      }
+    }
+  },
+  "date": {
+    "type": "date"
+  },
+  "desc": {
+    "type": "text",
+    "fields": {
+      "keyword": {
+        "type": "keyword",
+        "ignore_above": 256
+      }
+    }
+  },
+  "directions": {
+    "type": "text",
+    "fields": {
+      "keyword": {
+        "type": "keyword",
+        "ignore_above": 256
+      }
+    }
+  },
+  "fat": {
+    "type": "float"
+  },
+  "ingredients": {
+    "type": "text",
+    "fields": {
+      "keyword": {
+        "type": "keyword",
+        "ignore_above": 256
+      }
+    }
+  },
+  "protein": {
+    "type": "float"
+  },
+  "rating": {
+    "type": "float"
+  },
+  "sodium": {
+    "type": "float"
+  },
+  "title": {
+    "type": "text",
+    "fields": {
+      "keyword": {
+        "type": "keyword",
+        "ignore_above": 256
+      }
+    }
+  }
+}

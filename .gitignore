@@ -9,3 +9,5 @@ Pipfile*
 *.parquet
 
 trash/
+
+.DS_Store

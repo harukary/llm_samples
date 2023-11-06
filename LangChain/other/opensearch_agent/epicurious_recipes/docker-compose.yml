@@ -1,0 +1,53 @@
+version: '3'
+
+services:
+  opensearch:
+    build:
+      context: .
+      dockerfile: Dockerfile_kuromoji
+    image: opensearchproject/opensearch:latest
+    container_name: opensearch
+    environment:
+      # - cluster.name=docker-cluster
+      # - node.name=os-node
+      # - cluster.initial_master_nodes=os-node
+      # - bootstrap.memory_lock=true
+      - http.host=0.0.0.0
+      # - transport.host=127.0.0.1
+      - "OPENSEARCH_JAVA_OPTS=-Xms512m -Xmx512m"
+      - "discovery.type=single-node"
+      - "DISABLE_SECURITY_PLUGIN=true"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 262144 # Maximum number of open files for the opensearch user - set to at least 65536
+        hard: 262144
+    ports:
+      - 9200:9200
+      - 9600:9600
+    networks:
+      - opensearch-net
+
+  opensearch-dashboards:
+    # image: os-dashboards-no-security
+    build:
+      context: .
+      dockerfile: Dockerfile_no_security
+    image: opensearchproject/opensearch-dashboards:latest
+    container_name: opensearch-dashboards
+    environment:
+      - 'OPENSEARCH_HOSTS="http://opensearch:9200"'
+      - "DISABLE_SECURITY_DASHBOARDS_PLUGIN=true"
+    ports:
+      - 5601:5601
+    expose:
+      - "5601"
+    links:
+      - opensearch
+    networks:
+      - opensearch-net
+
+networks:
+  opensearch-net:
