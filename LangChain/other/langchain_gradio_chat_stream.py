@@ -32,13 +32,13 @@ prompt = ChatPromptTemplate.from_messages([
 
 # チャットモデル
 llm = ChatOpenAI(
-    model_name="gpt-3.5-turbo-0613", 
+    model="gpt-3.5-turbo-0613",
     max_tokens=512,
     temperature=0.2,
-    streaming=True, 
+    streaming=True,
     # callback_manager=CallbackManager([StreamingStdOutCallbackHandler()])
     callback_manager=AsyncCallbackManager([StreamingStdOutCallbackHandler()])
-)
+) #type: ignore
 
 # メモリ
 memory = ConversationBufferWindowMemory(k=3, return_messages=True)
