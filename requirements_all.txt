@@ -24,7 +24,6 @@ chromadb
 click
 clickhouse-connect
 codeboxapi
-codeinterpreterapi
 coloredlogs
 comm
 commonmark
