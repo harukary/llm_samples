@@ -7,6 +7,7 @@ Pipfile*
 *.pyc
 *.bin
 *.parquet
+*.gguf
 
 trash/
 
