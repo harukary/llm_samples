@@ -1,0 +1,2 @@
+mlx-community/Llama-3-8B-Instruct-1048k-4bit
+mlx-community/OpenELM-1_1B-8bit
